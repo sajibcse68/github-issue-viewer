@@ -1,6 +1,6 @@
 {
-  "name": "vue-pwa",
-  "short_name": "vue-pwa",
+  "name": "github-issue-viewer",
+  "short_name": "issues",
   "icons": [
     {
       "src": "/static/img/icons/android-chrome-192x192.png",
